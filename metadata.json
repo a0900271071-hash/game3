@@ -1,0 +1,8 @@
+{
+  "name": "Remix 4v1 非對稱生存對戰",
+  "description": "3D 第三人稱過肩跟隨視角 4v1 非對稱恐怖生存對戰遊戲，隨機地圖（廢土西門町與破敗大教堂），殺手與逃生者雙陣營專屬技能與AI隊友對決。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
